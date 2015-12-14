@@ -4,8 +4,15 @@
         <description><![CDATA[Just playing around with Grid]]></description>
         <link>https://thegrid.ai/tigtesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 05:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2015 05:51:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tigtesting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is another image, isn't it cool]]></title>
+            <description><![CDATA[<article><h1>This is another image, isn't it cool</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3803e5dd69a970be76908918424325c94820029f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tigtesting/this-is-another-image-isnt-it-cool/index.html</link>
+            <guid isPermaLink="false">a21ed096-f42e-4afc-96d5-a0981b9474bb</guid>
+            <pubDate>Mon, 14 Dec 2015 05:50:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Hummel that had been my Oma's.]]></title>
             <description><![CDATA[<article><h1>The Hummel that had been my Oma's.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcea9d5a-3ee9-42e6-9415-e556f5b5f961.jpg"></article>]]></description>
