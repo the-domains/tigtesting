@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[tigtesting]]></title>
-        <description><![CDATA[tigtesting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Just playing around with Grid]]></title>
+        <description><![CDATA[Just playing around with Grid]]></description>
+        <link>https://thegrid.ai/tigtesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 04:29:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 05:50:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tigtesting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Hummel that had been my Oma's.]]></title>
+            <description><![CDATA[<article><h1>The Hummel that had been my Oma's.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcea9d5a-3ee9-42e6-9415-e556f5b5f961.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tigtesting/the-hummel-that-had-been-my-omas/index.html</link>
+            <guid isPermaLink="false">33c5677f-3f83-4914-ba22-8e191e54c8de</guid>
+            <pubDate>Mon, 14 Dec 2015 05:50:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Little Mermaid, DSO Movies, August 2015 #sketchclub #artistic_share #digitalartsociety #digitalart #ipadart #ipaddrawing #art_featuring #drawsomethingshowcase #endowment_explora #disneyart #littlemermaid #ariel #seahorse]]></title>
-            <description><![CDATA[<article><h1>Little Mermaid, DSO Movies, August 2015 #sketchclub #artistic_share #digitalartsociety #digitalart #ipadart #ipaddrawing #art_featuring #drawsomethingshowcase #endowment_explora #disneyart #littlemermaid #ariel #seahorse</h1><img src="https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/s640x640/sh0.08/e35/11856586_468831253276508_1227973822_n.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Little Mermaid, DSO Movies, August 2015 #sketchclub #artistic_share #digitalartsociety #digitalart #ipadart #ipaddrawing #art_featuring #drawsomethingshowcase #endowment_explora #disneyart #littlemermaid #ariel #seahorse</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/163b7f81217aea9bc9b036c3c6fee3c9622fd116.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/6uC1H7metY/?taken-by=tiggerypum</link>
             <guid isPermaLink="false">b72220ab-95a9-4c1c-8c4a-c68ce939fd98</guid>
             <pubDate>Mon, 14 Dec 2015 04:29:09 GMT</pubDate>
