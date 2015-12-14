@@ -1,6 +1,6 @@
 name: tigtesting
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25195
 typography_spectrum: 0.6966496431268752
 title: Just playing around with Grid
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
